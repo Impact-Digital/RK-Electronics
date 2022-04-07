@@ -169,6 +169,10 @@ footer{
   font-size: 3.5rem ;
 }
 
+.brands img{
+  width: 300px;
+}
+
 
 /* card css */
 .card {
