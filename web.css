@@ -172,6 +172,13 @@ footer{
 .brands img{
   width: 300px;
 }
+.nav-link{
+  color: #000;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: rgb(0, 0, 0);
+  background-color: #ff6271;
+}
 
 
 /* card css */
